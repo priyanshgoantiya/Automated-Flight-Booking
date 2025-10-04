@@ -1,0 +1,19 @@
+{
+  "site": "demo",
+  "booking_status": "ready_for_payment",
+  "passenger": {
+    "first_name": "Charles",
+    "last_name": "Jones",
+    "phone": "9999566705",
+    "email": "jacob12@example.com",
+    "gender": "Male",
+    "age": 20
+  },
+  "travel_date": "11/10/2025",
+  "airline": "SpiceJet",
+  "departure_time": "10:30",
+  "arrival_time": "12:05",
+  "duration": "1h 35m",
+  "price": "\u20b93200",
+  "screenshot": "outputs/demo_flights.png"
+}
